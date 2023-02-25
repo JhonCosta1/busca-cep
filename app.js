@@ -28,7 +28,7 @@ btnSalvar.addEventListener('click', () => {
 })
 
 function buscaEndereco() {
-    fetch(`http://viacep.com.br/ws/${cepbusca.value}/json`)
+    fetch(`https://viacep.com.br/ws/${cepbusca.value}/json`)
         .then((resposta) => {
             return resposta.json();
         })
