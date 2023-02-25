@@ -17,6 +17,7 @@
  <li>validar formato do cep</li>
  <li>Pop-up para erro</li>
  <li>Localizar dados com base no cep</li>
+  <li>Botões: buscar, limpar campo, salvar dados</li>
 </ul>
 
 <p>Segue deploy do projeto</p>
